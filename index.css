@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: #efefef;
+  width: 50%;
+  height: 50%;
+  text-align: center;
+  margin: auto;
+}
